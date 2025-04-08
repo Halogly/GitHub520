@@ -37,14 +37,13 @@ HOSTS_TEMPLATE = """# GitHub520 Host Start
 {content}
 
 # Update time: {update_time}
-# Update url: https://raw.hellogithub.com/hosts
-# Star me: https://github.com/521xueweihan/GitHub520
+# Update url: https://api.halogly.com:800/ip/hosts
 # GitHub520 Host End\n"""
 
 
 @retry(tries=3)
 def get_json(session: Any) -> Optional[list]:
-    url = 'https://raw.hellogithub.com/hosts.json'
+    url = 'https://api.halogly.com:800/ip/hosts.json'
     try:
         rs = session.get(url)
         data = json.loads(rs.text)
