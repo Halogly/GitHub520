@@ -54,11 +54,11 @@
 185.199.110.133               desktop.githubusercontent.com
 185.199.110.133               favicons.githubusercontent.com
 140.82.113.3                  gist.github.com
-52.217.44.92                  github-cloud.s3.amazonaws.com
-52.216.50.113                 github-com.s3.amazonaws.com
-54.231.202.225                github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.217.233                github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.194.140                 github-production-user-asset-6210df.s3.amazonaws.com
+3.5.2.81                      github-cloud.s3.amazonaws.com
+52.216.36.249                 github-com.s3.amazonaws.com
+54.231.228.33                 github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.3.19                      github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.0.201                     github-production-user-asset-6210df.s3.amazonaws.com
 127.20.10.1                   github.blog
 140.82.112.3                  github.com
 140.82.114.18                 github.community
@@ -77,13 +77,13 @@
 185.199.110.133               private-user-images.githubusercontent.com
 
 
-# Update time: 2025-04-09T15:12:17+08:00
+# Update time: 2025-04-09T16:17:13+08:00
 # Update url: https://api.halogly.com:800/ip/hosts
 # GitHub520 Host End
 
 ```
 
-该内容会自动定时更新， 数据更新时间：2025-04-09T15:12:17+08:00
+该内容会自动定时更新， 数据更新时间：2025-04-09T16:17:13+08:00
 
 #### 2.1.2 修改 hosts 文件
 
